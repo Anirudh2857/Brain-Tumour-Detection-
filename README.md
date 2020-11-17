@@ -1,1 +1,1 @@
-# Brain-Tumour-Detection-
+Early detection of Brain Tumour Detection can save many lives.Detection of Brain Tumour with help of MRI scan can be done. With the help of the concept of Convolutional Neural Networks this can be done. CNN is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics
